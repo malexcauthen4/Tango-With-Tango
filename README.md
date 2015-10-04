@@ -3,7 +3,7 @@ Tango with Tango helps users to perform the Waltz dance correctly by guiding the
 
 Run this application, then click the start button.
 
-It will take you to a view that shoulds a 3D rendering, as well as the following fields.
+It will take you to a view that shows a 3D rendering, as well as the following fields.
 Previous Step:
 Current Step:
 
