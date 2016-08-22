@@ -1,9 +1,9 @@
 # Tango-With-Tango
-Tango with Tango helps users to perform the Waltz dance correctly by guiding them through the steps, and giving feedback on how they did. 
+Tango with Tango helps users to perform the Waltz dance correctly by guiding them through the steps, and giving feedback on how they did. This project was voting a top 7 best project at the Vanderbilt Hackathon in Octover 2015.  
 
-Run this application, then click the start button.
+In order to run this application you must have a Google Project Tango Tablet. 
 
-It will take you to a view that shows a 3D rendering, as well as the following fields.
+Once the application is installed on your project Tango Device, click the start button. It will take you to a view that shows a 3D rendering, as well as the following fields.
 Previous Step:
 Current Step:
 
